@@ -13,5 +13,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaveMagbag&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DaveMagbag&icon=6&color=4)](https://visitcount.itsvg.in)
-
