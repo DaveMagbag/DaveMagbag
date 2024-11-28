@@ -2,7 +2,7 @@
 • Currently 2nd Year Computer Science Student<br>• Studying at Pamantasan ng Lungsod ng Maynila<br>• Aspiring UI/UX Designer <br>• Aspiring Data Analyst<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DaveMagbag) 
 
 # 💻 Tech Stack:
